@@ -1,0 +1,29 @@
+/* Olive theme */
+body {
+    background-color: #808000;
+    color: #F5F5DC;
+}
+
+button {
+    background-color: #556B2F;
+    color: #F5F5DC;
+    border: none;
+}
+
+button:hover {
+    background-color: #6B8E23;
+}
+
+select {
+    background-color: #556B2F;
+    color: #F5F5DC;
+    border: none;
+}
+
+.overlay {
+    background-color: rgba(85, 107, 47, 0.8);
+}
+
+.floating-button {
+    background-color: #6B8E23;
+}
